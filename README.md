@@ -2,7 +2,7 @@
 
 This is a simple Chat application created by me while trying to learn more about ReactJS and its applications with Web Sockets.
 
-I have used the following functionalities:-
+I have used the following technologies:-
 
 1. `ReactJs`.
 
