@@ -1,5 +1,7 @@
 # Chat_Application
 
+https://chat-application-pandeyankit123.vercel.app/
+
 This is a simple Chat application created by me while trying to learn more about ReactJS and its applications with Web Sockets.
 
 I have used the following technologies:-
